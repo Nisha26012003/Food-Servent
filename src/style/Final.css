@@ -1,0 +1,24 @@
+#d12{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    border: solid 10px goldenrod;
+    margin-left: 400px;
+  }
+  #pr1{
+    font-size: 20px;
+    color: goldenrod;
+  }
+  #hh1{
+    width: 500px;
+    font-size: 30px;
+    color: goldenrod;
+  }
+  #butt{
+    background-color: goldenrod;
+  }
+  #butt:hover{
+    background-color:red;
+  }
+  
+  

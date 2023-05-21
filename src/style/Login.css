@@ -1,0 +1,12 @@
+#pp{
+    font-size: 40px;
+}
+#ii{
+    width: 700px;
+    height: 10px;
+}
+#divum{
+    border: 2px solid black;
+    width: fit-content;
+    margin-left: 500px;
+}

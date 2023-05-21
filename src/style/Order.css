@@ -1,0 +1,27 @@
+#o1{
+    color: goldenrod;
+    width: 1270px;
+    background-color: black;
+    padding-left: 100px;
+    text-align: center;
+}
+#o2{
+    font-size: 30px;
+    text-decoration: none;
+}
+#o3
+{
+  color: white;
+  margin: 80px;
+  padding-right: 100px;
+  font-size: 80px;
+}
+#frame{
+  width: 100px;
+  height: 60px;
+  padding-right: 200px;
+}
+h3{
+  padding-right: 200px;
+}
+

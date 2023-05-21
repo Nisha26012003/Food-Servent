@@ -1,0 +1,56 @@
+#h1{
+    color: goldenrod;
+    background: black;
+    width: 30%;
+    font-size: 30px;
+    margin-left:70px;
+    padding-right: 20px;
+}
+#div1{
+    width: 1200px;
+    margin: 60px;
+    
+}
+#div2{
+    color: black;
+    background: goldenrod ;
+    float: right;
+    margin: 70px;
+    width: 170px;
+    height: 245px;
+    border: solid black 2px;
+    padding-top: 20px;
+}
+#p1,#p3,#p5,#p7,#p9,#p11,#p13,#p15,#p17,#p19,#p21,#p23{
+    width: 170px;
+    font-size: 15px;
+}
+#p2,#p4,#p6,#p8,#p10,#p12,#p14,#p16,#p18,#p20,#p22,#p24{
+    width: 100px;
+    font-size: 20px;
+}
+
+#but{
+    width: 170px;
+}
+button:hover{
+    background-color: red;
+}
+#img1{
+    width: 150px;
+    height: 100px;
+}
+
+#out{
+    font-size: 15px;
+}
+#div4{
+    float: left;
+    background-color: white;
+    width: 300px;
+    position: fixed;
+    
+}
+#h2{
+    font-size: 30px;
+}
